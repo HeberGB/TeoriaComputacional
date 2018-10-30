@@ -1,2 +1,2 @@
 Just some automatas
-And others stuffs
+And others stuff
